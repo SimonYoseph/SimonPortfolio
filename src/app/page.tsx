@@ -4,7 +4,7 @@ import Image from "next/image";
 import AboutMePhoto from "./about-me-photo.jpg";
 import USNavalPhoto from "./us-naval.avif";
 import FearlessPhoto from "./fearless.png";
-import WestatPhoto from "./Westat.png";
+import WestatPhoto from "./westat.png";
 import NSFPhoto from "./nsf.jpeg";
 
 import LiquidBackgroundComponent from "@/components/LiquidBackground";
