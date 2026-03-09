@@ -163,7 +163,7 @@ export default function Home() {
                 <motion.div 
                   className="w-1.5 h-2.5 bg-white rounded-full shadow-[0_0_5px_rgba(255,255,255,0.8)]"
                   animate={{ y: [0, 14, 0], opacity: [1, 0.4, 1] }} 
-                  transition={{ repeat: Infinity, duration: 1.5, ease: "easeInOut" }}
+                  transition={{ repeat: Infinity, duration: 1.5, ease: "easeInOut" }
                 />
               </div>
               <span className="text-xs uppercase tracking-widest font-semibold text-white/90 drop-shadow-md">Scroll</span>
@@ -354,7 +354,7 @@ export default function Home() {
                   placeholder="blur"
                 />
               </div>
-              <p className="mt-2 text-left text-xs italic text-zinc-500">pohoto credit instagram: @becshotit</p>
+              <p className="mt-2 text-left text-xs italic text-zinc-500">photo credit instagram: @becshotit</p>
             </motion.div>
           </div>
 
